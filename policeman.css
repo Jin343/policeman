@@ -11,10 +11,6 @@ body {
  height: 100vh;
 }
 
-.policeman {
- transform: scale(2);
-}
-
 .hat .top {
  position: absolute;
  top: -47px;
